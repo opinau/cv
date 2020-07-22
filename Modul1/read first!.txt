@@ -1,0 +1,4 @@
+please rename detektor_cepa.py to main.py
+place all .pgm files on camera root
+microSD card is required
+then restart camera
